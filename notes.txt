@@ -1,0 +1,40 @@
+audio::-webkit-media-controls-panel {
+  background-color: #56AEFF;
+}
+
+
+img {
+	/* border: 1px solid #ddd; 
+	/* border-radius: 4px; makes the border round
+	   padding: 5px; 
+}
+
+
+
+
+"Raleway",Sans-serif used in Dolapo's salespage...
+
+.elementor-kit-10 {
+    --e-global-color-secondary: #284354;
+
+    --e-global-color-text: #7A7A7A;
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-weight: 500;
+}
+
+Use the "Georgia" font for headings, and "Verdana" for text:
+
+
+1. Roboto -- most downloaded
+
+17. Anton Font
+Anton
+Ant
+
+-- Amiri
+Pulling from classic Arabic fonts, 
+Amiri’s purpose is for books and longer paragraphs.
+
+https://bennettfeely.com/clippy/
